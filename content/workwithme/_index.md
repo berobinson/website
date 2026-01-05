@@ -1,9 +1,8 @@
 ---
 title: Work with me
-cms_exclude: true
+type: landing
 
----
-
+sections:
   - block: markdown
     content:
       title: Recruiting PhD and/or MSc student
