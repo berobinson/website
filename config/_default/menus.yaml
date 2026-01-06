@@ -24,7 +24,7 @@ main:
     weight: 60
 
   - name: Join the lab
-    url: uploads/recruitphdmsc_2026.pdf
+    url: /workwithme
     weight: 70
 
   - name: Contact
