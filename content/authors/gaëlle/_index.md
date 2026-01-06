@@ -1,6 +1,6 @@
 ---
 title: Gaëlle Mével
-role: MSc student
+role: PhD student
 interests:
   - Coastal & marine systems
   - Social-ecological systems
@@ -21,6 +21,9 @@ education:
     - course: 'BSc in Biology (Marine Ecology, Conservation & Environment)'
       institution: 'Université Laval'
       year: 2023
+    - course: 'MSc in Geography (Sea Level Rise & Coastal Adaptation)' 
+      institution: 'McGill University'
+      year: 2025
 
 social:
   - icon: google-scholar

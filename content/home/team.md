@@ -33,7 +33,7 @@ content:
     - Graduate students
     - Research assistants
     - Undergraduate students
-#    - Alumni
+    - Alumni
 
   
 ---

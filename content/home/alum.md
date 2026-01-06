@@ -12,7 +12,7 @@ active: false
    
 ---
 
- ## Alumni
+ ## Recent Alumni
       **Alicia Cavanaugh**. Analyst, National Institutes of Health (former postdoc) 
       **Geoff J Wells**. Analyst, <a href="https://www.industry.gov.au/" target="_blank" rel="noopener">Aust. Dept of Ind, Sci & Resources</a> (former postdoc)<br>
       <b>Paola Fajardo</b>. PhD student, <a href="https://www.geog.ox.ac.uk/graduate/research/pfajardo.html" target="_blank" rel="noopener">University of Oxford</a> (former RA)<br>

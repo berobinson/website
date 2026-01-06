@@ -20,9 +20,13 @@ main:
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: uploads/robinson_cv.pdf
+    url: uploads/robinson_cv_2025.pdf
     weight: 60
+
+  - name: Join the lab
+    url: uploads/recruitphdmsc_2026.pdf
+    weight: 70
 
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 80

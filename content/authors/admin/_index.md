@@ -24,13 +24,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/brianerobinson
-  - icon: twitter
-    icon_pack: fab
-    link: https://bsky.app/profile/berobinson.bsky.social
 #  - icon: bluesky
-#    icon_pack: custom OR fab?
+#    icon_pack: fab
 #    link: https://bsky.app/profile/berobinson.bsky.social
-
+#  - icon: twitter
+#    icon_pack: fab
+#    link: https://bsky.app/profile/berobinson.bsky.social
 #  - icon: twitter
 #    icon_pack: fab
 #    link: <i class="fa-brands fa-square-bluesky"></i>
@@ -67,5 +66,5 @@ Our group investigates how people meet their needs through use of ecosystems and
 
 <i class="fa-solid fa-user-group"></i> For practicing inclusive science in the lab, [see here](/edi).
 
-<i class="fa-solid fa-file-arrow-down"></i> For more details on Brian, see his [CV here](/uploads/robinson_CV.pdf).
+<i class="fa-solid fa-file-arrow-down"></i> For more details on Brian, see his [CV here](/uploads/robinson_CV_2025.pdf).
 
