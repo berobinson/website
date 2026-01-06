@@ -12,17 +12,17 @@ date: '2026-01-01T00:00:00Z'
 date_end: '2029-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 
+external_link: https://www.statcan.gc.ca/en/census-environment
 
 image:
   caption: 
   focal_point: Smart
 
 links:
-  - icon: 
-    icon_pack: 
-    name: 
-    url: 
+#  - icon: 
+#    icon_pack: 
+#    name: 
+#    url: 
 url_code: ''
 url_pdf: ''
 url_slides: ''

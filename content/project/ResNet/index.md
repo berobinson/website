@@ -5,10 +5,9 @@ summary: "[ResNet's](https://www.nsercresnet.ca/) mission is to support Canada's
 tags:
   - ES
   - HWB
-  - active
 
 date: '2019-06-02T00:00:00Z'
-date_end: '2025-01-01T00:00:00Z'
+date_end: '2025-06-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: https://www.nsercresnet.ca/theme-2-modeling.html

@@ -1,6 +1,6 @@
 ---
 title: David Crook
-role: 'Biology teacher at Sharon High School in Massachusetts (former MSc student)'
+role: 'Biology teacher at Sharon High School (former MSc student)'
 bio: Researching rangeland management policies and herder welfare
 interests:
   - land system science  

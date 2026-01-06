@@ -1,5 +1,5 @@
 ---
-title: 'IPBES'
+title: 'IPBES Second Global Assessment'
 summary: "The Intergovernmental science-policy Platform on Biodiversity and Ecosystem Services (IPBES) aims to strengthen the science-policy interface for biodiversity and ecosystem services for the conservation and sustainable use of biodiversity, long-term human well-being and sustainable development. From 2025-2028 I will serve as a Lead Author on the Second Global Assessment to describe the status and trends of nature's contributions to people."
 
 tags:
@@ -19,10 +19,10 @@ image:
   focal_point: Smart
 
 links:
-  - icon: 
-    icon_pack: 
-    name: 
-    url: 
+#  - icon: bluesky
+#    icon_pack: bs
+#    name: follow
+#    url: https://bsky.app/profile/ipbes.net
 url_code: ''
 url_pdf: ''
 url_slides: ''

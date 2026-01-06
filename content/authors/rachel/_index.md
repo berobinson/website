@@ -1,6 +1,6 @@
 ---
 title: Rachel Maynard
-role: 'GIS Analyst with GISinc and former ORISE fellow US EPA in the Office of Transportation and Air Quality. (former MSc student)'
+role: 'GIS Analyst with GISinc (former MSc student)'
 bio: 
 interests:
   - geographic information sciences
