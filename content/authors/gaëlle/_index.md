@@ -26,7 +26,7 @@ education:
       year: 2025
 
 social:
-(){{< icon name="bluesky" pack="fab" >}})[https://bsky.app/profile/gaellemevel.bsky.social]
+({{< icon name="bluesky" pack="fab" >}})[https://bsky.app/profile/gaellemevel.bsky.social]
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=thMw7hUAAAAJ&hl=en&oi=ao
