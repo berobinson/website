@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 title: Recent Publications
-subtitle: '(Google Scholar)[https://scholar.google.com/citations?user=CDpl5ZwAAAAJ&hl=en] does a much better job of keeping up with this...'
+subtitle: 'Google Scholar does a much better job of keeping up with this... see link above'
 
 content:
   # Filter on criteria

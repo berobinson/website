@@ -5,7 +5,7 @@ authors:
 - Charlotte H Chang
 - James T Erbaugh
 - paola
-- Luci Lu
+- luci
 - István Molnár
 - Dávid Papp
 - admin
@@ -13,11 +13,11 @@ authors:
 - Susan Cook-Patton
 - Timm Kroeger
 - ' others'
-date: '2024-01-01'
-publishDate: '2024-11-17T21:15:18.791567Z'
+date: '2025-01-01'
+publishDate: '2025-01-17T21:15:18.791567Z'
 publication_types:
 - article-journal
-publication: '*arXiv preprint arXiv:2405.00079*'
+publication: 'Nature Sustainability'
 
 
 # Author notes (optional)
