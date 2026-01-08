@@ -35,15 +35,12 @@ social:
   - icon: linkedin
     icon_pack: ai
     link: www.linkedin.com/in/gaelle-mevel
-  - icon: brands/bluesky
-    icon_pack: brands
+  - icon: twitter
+    icon_pack: fas
     link: https://bsky.app/profile/gaellemevel.bsky.social
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Gaelle-Mevel
-  - icon: custom/bluesky1
-    icon_pack: custom
-    link: https://bsky.app/profile/gaellemevel.bsky.social
     
 email: ""
 superuser: false
