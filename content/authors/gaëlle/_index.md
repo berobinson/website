@@ -26,6 +26,7 @@ education:
       year: 2025
 
 social:
+(){{< icon name="bluesky" pack="fab" >}})[https://bsky.app/profile/gaellemevel.bsky.social]
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=thMw7hUAAAAJ&hl=en&oi=ao
@@ -39,6 +40,7 @@ social:
     icon_pack: ai
     link: https://www.researchgate.net/profile/Gaelle-Mevel
   - icon: bluesky
+    family: brands
     icon_pack: fab
     link: https://bsky.app/profile/gaellemevel.bsky.social
     
@@ -46,5 +48,5 @@ email: ""
 superuser: false
 highlight_name: true
 ---
-Trained as a marine biologist, I am especially interested in the study of coastal and marine systems. I enjoy interdisciplinary applied research that bridges the social sciences and ecology. For my PhD project, I’m hoping to explore how different marine conservation measures can benefit both people and nature, while adapting to changing environmental conditions.
+With a start in marine biology, I am especially interested in the study of coastal and marine systems. I enjoy interdisciplinary applied research that bridges the social sciences and ecology. For my PhD project, I’m hoping to explore how different marine conservation measures can benefit both people and nature, while adapting to changing environmental conditions.
  
