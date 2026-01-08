@@ -36,7 +36,7 @@ social:
     icon_pack: ai
     link: www.linkedin.com/in/gaelle-mevel
   - icon: twitter
-    icon_pack: fas
+    icon_pack: fab
     link: https://bsky.app/profile/gaellemevel.bsky.social
   - icon: researchgate
     icon_pack: ai
