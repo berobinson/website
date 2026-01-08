@@ -36,7 +36,7 @@ social:
     icon_pack: ai
     link: www.linkedin.com/in/gaelle-mevel
   - icon: brands/bluesky
-    icon_pack: custom
+    icon_pack: brands
     link: https://bsky.app/profile/gaellemevel.bsky.social
   - icon: researchgate
     icon_pack: ai
