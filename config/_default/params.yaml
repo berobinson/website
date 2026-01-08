@@ -89,6 +89,12 @@ features:
     api_key: ''
     zoom: 15
 
+social:
+  - icon: bluesky
+    icon_pack: custom
+    link: https://bsky.app/profile/berobinson.bsky.social
+
+
 content:
   coordinates:
     latitude: '45.504647925721784'
