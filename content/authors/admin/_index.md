@@ -24,9 +24,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/brianerobinson
-#  - icon: bluesky
-#    icon_pack: fab
-#    link: https://bsky.app/profile/berobinson.bsky.social
+  - icon: bluesky
+    icon_pack: custom
+    link: https://bsky.app/profile/berobinson.bsky.social
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://bsky.app/profile/berobinson.bsky.social
