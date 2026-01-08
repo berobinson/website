@@ -1,5 +1,5 @@
 ---
-title: Hugo Theirry
+title: Hugo Thierry
 role: Lead Data Scientist, SCC France (Paris)
 interests:
   - Ecosystem services

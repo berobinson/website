@@ -5,9 +5,9 @@ interests:
   - Coastal & marine systems
   - Social-ecological systems
   - Biodiversity & conservation
-  - Climate adaptation
+  - Climate change
   - Ecosystem services
-  - Natural Climate Solutions
+  - Natural climate solutions
 
 user_groups:
   - Graduate students
@@ -38,13 +38,13 @@ social:
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Gaelle-Mevel
-  - icon: twitter
+  - icon: bluesky
     icon_pack: fab
-    link: https://x.com/gaelle_mevel
+    link: https://bsky.app/profile/gaellemevel.bsky.social
     
 email: ""
 superuser: false
 highlight_name: true
 ---
-Trained as a marine biologist, I am especially interested in the study of coastal and marine systems. I enjoy applied research and bridging the social sciences with ecology. As a result, my master’s thesis revolves around modelling both the social and ecological implications of rising sea levels for coastal regions at the global scale. I am also involved in projects on ecosystem services and biodiversity conservation.  
+Trained as a marine biologist, I am especially interested in the study of coastal and marine systems. I enjoy interdisciplinary applied research that bridges the social sciences and ecology. For my PhD project, I’m hoping to explore how different marine conservation measures can benefit both people and nature, while adapting to changing environmental conditions.
  
