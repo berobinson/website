@@ -26,7 +26,6 @@ education:
       year: 2025
 
 social:
-({{< icon name="bluesky" pack="fab" >}})[https://bsky.app/profile/gaellemevel.bsky.social]
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=thMw7hUAAAAJ&hl=en&oi=ao
@@ -36,12 +35,14 @@ social:
   - icon: linkedin
     icon_pack: ai
     link: www.linkedin.com/in/gaelle-mevel
+  - icon: custom/bluesky2
+    icon_pack: custom
+    link: https://bsky.app/profile/gaellemevel.bsky.social
   - icon: researchgate
     icon_pack: ai
     link: https://www.researchgate.net/profile/Gaelle-Mevel
-  - icon: bluesky
-    family: brands
-    icon_pack: fab
+  - icon: custom/bluesky1
+    icon_pack: custom
     link: https://bsky.app/profile/gaellemevel.bsky.social
     
 email: ""
